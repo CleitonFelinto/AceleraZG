@@ -1,6 +1,5 @@
 # AceleraZG
 Projetos desenvolvidos durante o programa AceleraZG:
 
-**Trilha de Desafios**
-- [K0-T0 - Primeiros Desafios]()
-- 
+** 1 - ** [Trilha de Desafios](https://github.com/CleitonFelinto/AceleraZG/tree/main/(K0-T1):%20Trilha%20dos%20Desafios)
+
